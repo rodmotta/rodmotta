@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Rodrigo Motta</h1>
 
-<!--
-**rodmotta/rodmotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Languages and Tools:</h3>
+<p>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+<img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="Spring"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+<img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="45px" alt="JUnit"/>
+<img src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg' width="45px" alt="Gradle"/>
+</p>
